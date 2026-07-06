@@ -18,7 +18,12 @@ package org.edu;
 		public void ba() {
 			System.out.println("BAA Course");
 		
-		} public static void main(String[]args) {
+		} 
+		
+		public void b() {
+			System.out.println("b");
+		}
+		public static void main(String[]args) {
 			 Arts a = new Arts();
 			 a.postgraduate();
 			 a.undergraduate();
