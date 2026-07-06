@@ -16,8 +16,8 @@ package org.edu;
 		System.out.println("BEd Course");
 		}
 		public void ba() {
-			System.out.println("BA Course");
-			
+			System.out.println("BAA Course");
+		
 		} public static void main(String[]args) {
 			 Arts a = new Arts();
 			 a.postgraduate();
@@ -25,7 +25,7 @@ package org.edu;
 			 a.ba();
 			 a.bED();
 			 a.bsc();
-			 
+		
 			 
 		 }
 		 }
